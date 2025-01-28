@@ -6,7 +6,7 @@ CRUD Operations for Blog Posts: Create, read, update, and delete blog posts.
 User Profile: View and update user profile information.
 Responsive Design: The website is mobile-friendly and adjusts to different screen sizes.
 ## Screenshots
-![Homepage](templates/home.png)
+![Homepage](django_project/blog/templates/home.png)
 
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
