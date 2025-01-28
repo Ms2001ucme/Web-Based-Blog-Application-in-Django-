@@ -40,15 +40,6 @@ Open the app in your browser:
 
 ---
 
-## How to Use
-1. Register or log in to access the app.
-2. Create a study room by specifying a topic.
-3. Share the room link with friends to join.
-4. Start engaging in real-time chat discussions.
-
-
----
-
 ## Contributing
 Contributions are welcome! Please follow these steps:
 
